@@ -1,4 +1,4 @@
-def working_with_arrays 
+def working_with_arrays
 
-instantiate_new_array = []
+instantiate_new_array []
 end
